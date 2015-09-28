@@ -1,4 +1,4 @@
 Basics
 ======
 
-** TODO: Add description **
+** This is a file for us to learn elixir  **
